@@ -1,3 +1,4 @@
+from backend import ask_pdf, generate_summary, generate_mcqs, generate_flashcards
 import streamlit as st
 
 # =========================
